@@ -2,7 +2,7 @@ const carService = require("../models/car");
 
 exports.index = (req, res, next) => {
   const cars = carService.getCars(req.query);
-  res.status(200).json({ cars: cars, color: req.query.color });
+  res.status(200).json({ cars: cars });
 };
 
 exports.create = (req, res, next) => {

@@ -16,7 +16,7 @@ const carService = {
     }
   },
   findById: function(id) {
-    return cars.filter(c => c.id === id)[0];
+    return cars.find(c => c.id === id);
   },
   save: function(car) {
     if (car.id) {

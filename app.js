@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(function(req, res, next) {
-  console.log("YIPPEEE I'm Middleware!");
+  console.log("YIPPEEE I'm a custom middleware function!");
   next();
 });
 
