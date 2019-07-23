@@ -7,7 +7,7 @@ Companion app to [OrangeMethod's Express MVC Lesson](https://pages.github.homede
 To get started clone the repo and install the dependencies
 
 ```bash
-$ git clone https://github.homedepot.com/OM-NodeJS/express-cars-mvc.git
+$ git clone https://github.homedepot.com/om-labs/express-cars-mvc.git
 $ cd express-cars-mvc
 $ yarn
 ```
