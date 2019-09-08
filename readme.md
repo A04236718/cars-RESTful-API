@@ -1,6 +1,6 @@
 ## Express MVC
 
-Companion app to [OrangeMethod's Express MVC Lesson](https://pages.github.homedepot.com/om-labs/express-intro/express-mvc-no-db.html)
+Companion app to [OrangeMethod's Express MVC Lesson](https://om-curriculum.apps-np.homedepot.com/javascript/express/express-mvc-no-db/)
 
 ## Setup
 
