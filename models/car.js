@@ -21,6 +21,12 @@ const carService = {
   save: function(car) {
     if (car.id) {
       const oldCar = this.findById(car.id);
+      if (oldCar) {
+        const index = users.indexOf(oldUser);
+        users.splice(index, 1, user);
+      } else {
+        cars.push(car);
+      }
       const index = cars.indexOf(oldCar);
       cars.splice(index, 1, car);
     } else {
