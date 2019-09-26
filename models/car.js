@@ -23,7 +23,7 @@ const carService = {
       const oldCar = this.findById(car.id);
       if (oldCar) {
         const index = cars.indexOf(oldCar);
-        users.splice(index, 1, user);
+        cars.splice(index, 1, car);
       } else {
         cars.push(car);
       }
