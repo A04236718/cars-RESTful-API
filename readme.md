@@ -4,15 +4,7 @@ Companion app to [OrangeMethod's Express MVC Lesson](https://om-curriculum.apps-
 
 ## Setup
 
-To get started clone the repo and install the dependencies
-
-```bash
-$ git clone https://github.homedepot.com/om-labs/express-cars-mvc.git
-$ cd express-cars-mvc
-$ yarn
-```
-
-_alternatively, you can run `npm install` instead of `yarn`._
+To get started fork this repo to your Home Depot GitHub, clone it and install the dependencies
 
 To start the application run `yarn dev`
 
