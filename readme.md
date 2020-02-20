@@ -15,15 +15,15 @@ A postman collection for this application can be found [here](https://www.getpos
 If you navigate to `http://localhost:3000/users` you should get a message indicating that User data, routes, controllers, etc. need to be added. Take a few minutes and to build out that piece of the application. 
 
 * Create an array of Users and place it in `models/user.js`. At minimum, the user objects should contain:
-  ** `id`
-  ** `name`
-  ** `email`
+  * `id`
+  * `name`
+  * `email`
 * Create CRUD operations in your user model
-    * Create a new user
-    * Retrieve all users
-    * Retrieve a single user
-    * Update a user (by id)
-    * Delete a user
+  * Create a new user
+  * Retrieve all users
+  * Retrieve a single user
+  * Update a user (by id)
+  * Delete a user
 * Create CRUD routes for your users
 * Create corresponding controller actions for each of your routes
 
