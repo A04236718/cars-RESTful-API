@@ -38,4 +38,4 @@ We have now walked through structuring an express application with the MVC archi
 
 ## Additional Resources
 
-* [https://medium.com/@agoiabeladeyemi/a-simple-explanation-of-express-middleware-c68ea839f498](A Simple Explanation of Express Middleware)
+* [A Simple Explanation of Express Middleware](https://medium.com/@agoiabeladeyemi/a-simple-explanation-of-express-middleware-c68ea839f498)
